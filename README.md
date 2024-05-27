@@ -31,6 +31,7 @@ The report consists of;
 You can see the Datasets here
 ![](Restaurant_ratings.PNG)
 ![](Consumer_preferences.PNG)
+![](Restaurant_cuisines.PNG)
 ![](Consumers.PNG)
 ![](Restaurants.PNG)
 
