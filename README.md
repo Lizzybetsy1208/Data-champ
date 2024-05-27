@@ -28,8 +28,35 @@ The report consists of;
 4.	Consumers
 5.	Restaurants
 
-You can see the reports here
+You can see the Datasets here
 ![](Restaurant_ratings.PNG)
 ![](Consumer_preferences.PNG)
 ![](Consumers.PNG)
 ![](Restaurants.PNG)
+
+Features:
+My dashboard features include:
+- Donut charts
+- Stacked column charts
+- Stacked bar chart
+- 100% Stacked bar chart
+
+## Analysis
+### Restaurants in Mexico:
+There are 127 restaurants, the restaurants have about 138 consumers and a total number of 23 cuisines and the average age of consumers is 27.30
+Highest rated restaurants and consumer preferences:
+Consumer preferences do not affect the ratings. Some of the top-rated restaurant, like; Tortas Locas Hipocampo, cafeteria Y restaurant El pacifico, La cantinan restaurante etc, does not serve the most preferred cuisine, which is Mexican.
+
+### Consumer demographics and indication of biases:
+There is bias in the data sample. The data might have come from reviews, and there could be bias in who leaves reviews. Younger, single people, and students might be more likely to leave online reviews compared to older adults or families. The data might have also been collected from a school area
+
+### Demand & supply gaps that you can exploited:
+From the analysis, some of the top-rated restaurants, like Tortas Locas Hipocampo, Cafeteria y Restaurant El Pacifico, and La Cantina Restaurante, do not serve the most preferred cuisine, which is Mexican. This is surprising because these restaurants are in Mexico, where Mexican food is likely to be the traditional choice
+
+## Restaurant Rating Dashboard:
+![](Restaurant_rating_dashboard.PNG)
+
+
+
+
+
