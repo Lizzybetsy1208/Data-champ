@@ -51,10 +51,16 @@ Consumer preferences do not affect the ratings. Some of the top-rated restaurant
 There is bias in the data sample. The data might have come from reviews, and there could be bias in who leaves reviews. Younger, single people, and students might be more likely to leave online reviews compared to older adults or families. The data might have also been collected from a school area
 
 ### Demand & supply gaps that you can exploited:
-From the analysis, some of the top-rated restaurants, like Tortas Locas Hipocampo, Cafeteria y Restaurant El Pacifico, and La Cantina Restaurante, do not serve the most preferred cuisine, which is Mexican. This is surprising because these restaurants are in Mexico, where Mexican food is likely to be the traditional choice
+From the analysis, some of the top-rated restaurants, like Tortas Locas Hipocampo, Cafeteria y Restaurant El Pacifico, and La Cantina Restaurante, do not serve the most preferred cuisine, which is Mexican. This is surprising because these restaurants are in Mexico, where Mexican food is likely to be the traditional choice.🤓
 
 ## Restaurant Rating Dashboard:
 ![](Restaurant_rating_dashboard.PNG)
+
+## Conclusion and Recommendation:
+Focusing on a narrow demographic can limit business growth opportunities by not catering to a broader audience. Business decisions based only on this demographic might ignore the needs and preferences of other potential customer groups. 
+Restaurants in Mexico should serve more Mexican food because it is in high demand and will likely earn them more sales. 
+Based on this analysis, investing in a restaurant that appeals to 20 to 30-year-old singles and students could be a good opportunity. Focus on the right location, affordable and appealing menu options, a trendy ambiance, and a strong online and social media presence to attract and keep this target audience. Ensuring operational efficiency and actively responding to customer feedback will also be key to success. 😄
+
 
 
 
