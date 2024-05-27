@@ -11,3 +11,11 @@ This data set is called the restaurant rating dataset which contains information
 3.	Are there any demand & supply gaps that you can exploit in the market?
 4.	If you were to invest in a restaurant, which characteristics would you be looking for?
 
+## Skills/ concepts demonstrated:
+The following Power BI features were incorporated:
+- Data cleaning,
+- New measure,
+- New column,
+- Merging,
+- Filtering
+
