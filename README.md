@@ -19,3 +19,17 @@ The following Power BI features were incorporated:
 - Merging,
 - Filtering
 
+## Visualization
+
+The report consists of;
+1.	Restaurant rating
+2.	Consumer preferences
+3.	Restaurant cuisines 
+4.	Consumers
+5.	Restaurants
+
+You can see the reports here
+![](Restaurant_ratings.PNG)
+![](Consumer_preferences.PNG)
+![](Consumers.PNG)
+![](Restaurants.PNG)
